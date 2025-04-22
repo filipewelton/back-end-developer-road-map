@@ -56,11 +56,25 @@ avançados.
 6. SQL
 
 - [ ] Tipos de Dados
+- [ ] Operadores
 - [ ] Comandos Básicos
-- [ ] Comandos avançados
+- [ ] Cláusulas
+- [ ] Funções Agregadas
+- [ ] Restrições de Dados
+- [ ] Juntando Dados
+- [ ] Funções
+- [ ] Visualizações
+- [ ] Índices
+- [ ] Subconsultas
 
 7. Go Language
 
-- [ ] Estrutura de dados
-- [ ] Paradigmas
-- [ ] Context
+- [ ] Tipos e Estruturas de Dados
+- [ ] Variáveis e Constantes
+- [ ] Operadores e Expressões
+- [ ] Condicionais
+- [ ] Laços
+- [ ] Funções, Closures, Defer, Panic e Recover
+- [ ] Concorrência
+- [ ] Testes
+- [ ] Padrões e Boas Práticas
