@@ -12,8 +12,8 @@ avançados.
 - [x] Listas
 - [x] Matrizes
 - [x] Filas
-- [ ] Pilhas
-- [ ] Grafos
+- [x] Pilhas
+- [x] Grafos
 - [ ] Tabela Hash
 - [ ] Heap
 
